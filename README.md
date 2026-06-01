@@ -5,4 +5,4 @@ System requirements: The code requires R packages including ncdf4, dbscan, ggplo
 
 Installation guide: The code can be directly run in the R language across Windows and Linux platforms. The R version is 4.3.0 or higher, and the associated packages can be installed in this R version. There is no need to spend time installing this code, just configure the required packages as listed above.
 
-Usage: To run this code, you need gridded climate and vegetation data. IDI integrates meteorological, hydrological, and agricultural drought information (precipitation, runoff, and soil moisture data). STI is calculated from near-surface temperature data. CDHI couples IDI with STI to identify CDHEs. SVI is derived from NDVI for vegetation loss assessment.
+Usage: To run this code, you need gridded climate and vegetation data, as well as global basin shapefiles data. IDI integrates meteorological, hydrological, and agricultural drought information (precipitation, runoff, and soil moisture data). STI is calculated from near-surface temperature data. CDHI couples IDI with STI to identify CDHEs. SVI is derived from NDVI for vegetation loss assessment.

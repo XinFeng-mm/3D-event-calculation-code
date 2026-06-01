@@ -1,2 +1,2 @@
 # 3D-event-calculation-code
-A concrete example of how to calculate a three-dimensional disaster event
+A specific example of how to calculate a three-dimensional disaster event
